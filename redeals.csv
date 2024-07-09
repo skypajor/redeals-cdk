@@ -1,0 +1,4 @@
+id,listed_date,units,address,city,market_rent,list_price,sold_price,sqft,repairs_maintenance,landscape,insurance,gas_electric,garbage_water_sewage,tax,vacancy_rate,property_management,rent,other_inc
+1,7/1/22,14,123 Oak St.,"Chicago, IL",1368,29000000,0,13200,1050,200,517,888,850,1427,854,2112,21120,100
+2,2/22/22,6,456 Spruce Ave.,"Pulman, WA",1200,850000,0,3776,450,100,171,140,195,421,254,635,6350,0
+3,9/19/21,4,678 Pine St.,"Marysville, WA",1542,975000,1020000,3790,550,50,215,25,250,627,288,575,5750,0
